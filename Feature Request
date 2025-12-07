@@ -1,0 +1,38 @@
+---
+name: Feature Request
+about: Suggest a new feature or enhancement
+title: '[FEATURE] '
+labels: enhancement
+assignees: ''
+---
+
+## Feature Description
+<!-- Clear description of the feature you'd like -->
+
+## Use Case
+<!-- Why is this feature needed? What problem does it solve? -->
+
+## Proposed Solution
+<!-- How should this feature work? -->
+
+## Alternatives Considered
+<!-- Other approaches you've thought about -->
+
+## Implementation Ideas
+<!-- Technical suggestions (optional) -->
+```bash
+# Example implementation
+```
+
+## Additional Context
+<!-- Screenshots, examples from other tools, etc. -->
+
+## Impact
+- [ ] Would benefit most users
+- [ ] Niche use case
+- [ ] Breaking change (requires major version bump)
+
+## Checklist
+- [ ] I've searched existing issues/PRs
+- [ ] This aligns with the script's purpose
+- [ ] I'm willing to help test this feature
